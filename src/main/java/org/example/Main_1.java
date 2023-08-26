@@ -44,10 +44,7 @@ public class Main_1 {
 
         System.out.println();
 
-        int arr1[] = {3,2,8,7,11};
-        int arr2[] = {3,2,8,7,12};
 
-        System.out.println(Arrays.equals(arr1,arr2));
 
 
 
