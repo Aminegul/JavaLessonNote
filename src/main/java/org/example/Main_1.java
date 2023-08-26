@@ -49,8 +49,6 @@ public class Main_1 {
 
         System.out.println(Arrays.equals(arr1,arr2));
 
-
-
     }
 
 }
